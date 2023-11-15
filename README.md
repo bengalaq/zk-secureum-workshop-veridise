@@ -1,6 +1,6 @@
 # Secureum ZK Workshop '23
 
-Every directory has its quiz with their respective solutions.
+Every directory has its own quiz with the respective solutions.
 
 At Day 5, we were presented a protocol that simultaneously supports anonymously signaling (Semaphore from Ethereum Foundation) and anonymous NFT auctions. We were told to find as many vulns as we could in 2 days, which was sort of challenging.
 
